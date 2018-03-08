@@ -1,0 +1,6 @@
+<!--pages/test/baidufanyi.wxml-->
+<input bindinput='userInput' placeholder='请输入要查询的单词'></input>
+<view>
+  <button bindtap='chaxun'>点击查询</button>
+  <text>{{userInput}}</text>
+</view>
