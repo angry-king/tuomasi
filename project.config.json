@@ -12,6 +12,8 @@
 	"appid": "wx4558c2f12f2c0974",
 	"projectname": "tuomasi",
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
